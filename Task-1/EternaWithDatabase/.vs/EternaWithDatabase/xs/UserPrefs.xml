@@ -1,28 +1,39 @@
 ﻿<Properties StartupConfiguration="{3B07E63A-278A-459C-915A-AF8A4D40F811}|Default">
-  <MonoDevelop.Ide.ItemProperties.EternaWithDatabase FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EternaWithDatabase/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="EternaWithDatabase/Controllers/HomeController.cs" Line="168" Column="41" />
+      <File FileName="EternaWithDatabase/Views/Home/Index.cshtml" Line="11" Column="1" />
+      <File FileName="EternaWithDatabase/Views/Portfolio/Index.cshtml" Line="20" Column="1" />
+      <File FileName="EternaWithDatabase/Views/_ViewImports.cshtml" Line="3" Column="34" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EternaWithDatabase" expanded="True">
             <Node name="EternaWithDatabase" expanded="True">
-              <Node name="ViewModels" expanded="True">
-                <Node name="ServiceViewModel.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="assets" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Portfolio" expanded="True" />
+                <Node name="Service" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EternaWithDatabase PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

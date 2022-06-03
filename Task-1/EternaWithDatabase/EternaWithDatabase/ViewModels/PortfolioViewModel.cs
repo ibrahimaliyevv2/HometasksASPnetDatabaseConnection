@@ -1,7 +1,7 @@
-﻿using Eterna.Models;
+﻿using EternaWithDatabase.Models;
 using System.Collections.Generic;
 
-namespace Eterna.ViewModels
+namespace EternaWithDatabase.ViewModels
 {
     public class PortfolioViewModel
     {
